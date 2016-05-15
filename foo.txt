@@ -1,1 +1,2 @@
-test
+This is a foo
+This is Jorge's edit
